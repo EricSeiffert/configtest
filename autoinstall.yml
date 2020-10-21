@@ -1,0 +1,5 @@
+version: 1
+local: en_US
+keyboard:
+    layout: en
+    variant: us
